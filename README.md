@@ -4,6 +4,17 @@ Matlab with "Energy-Efﬁcient Data Collection in UAV Enabled Wireless Sensor Ne
 ## Dependency
 cvx (http://cvxr.com/cvx/download/)
 
+## How to run?
+Run Figure1.m  
+Run Figure2a.m  
+Run Figure2b.m  
+
+
+
+## How to get own trajectory and schedule?
+
+You need to set the "istrain" flag to 1 in Figure 1.m.
+
 ## Results
 ![Fig1(a)](./results/Fig1(a).bmp)
 ![Fig1(b)](./results/Fig1(b).bmp)
