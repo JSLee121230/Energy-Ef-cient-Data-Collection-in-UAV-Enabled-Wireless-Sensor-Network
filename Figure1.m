@@ -64,7 +64,7 @@ end
 plot([0:99]*50/99, Xr(:,1),  '-r',[0:99]*50/99, Xr(:,2),  '--b', [0:99]*50/99, Xr(:,3), ':k',[0:99]*50/99, Xr(:,4),  '-.m');
 legend('SN u_{1}','SN u_{2}','SN u_{3}','SN u_{4}','Location','north','NumColumns',4);
 axis([ 0 50 0 1.25])
-title('Fig.1 (2), Wake-up schedule (T=50s)');
+title('Fig.1(b), Wake-up schedule (T=50s)');
 yticks([0 1])
 yticklabels({'Sleep','Wake-up'})
 drawnow
