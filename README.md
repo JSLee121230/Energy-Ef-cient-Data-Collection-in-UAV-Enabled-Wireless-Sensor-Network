@@ -2,14 +2,12 @@
 Matlab with "Energy-Efﬁcient Data Collection in UAV Enabled Wireless Sensor Network" (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8119562)
 
 ## Dependency
-cvx (http://cvxr.com/cvx/download/)
+matlab2019b with cvx (http://cvxr.com/cvx/download/)
 
 ## How to run?
 Run Figure1.m  
 Run Figure2a.m  
 Run Figure2b.m  
-
-
 
 ## How to get own trajectory and schedule?
 
